@@ -607,7 +607,7 @@ body {
 .v1_386 {
     width: 163px;
     height: 160px;
-    background: url("../images/fins_logo.png");
+    /* background: url("../public/images/fins_logo.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -621,7 +621,7 @@ body {
 .v1_387 {
     width: 160px;
     height: 155px;
-    background: url("../images/fins_logo.png");
+    /* background: url("../public/images/fins_logo.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -635,7 +635,7 @@ body {
 .v1_388 {
     width: 164px;
     height: 163px;
-    background: url("../images/fins_logo.png");
+    /* background: url("../public/images/fins_logo.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
